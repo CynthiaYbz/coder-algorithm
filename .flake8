@@ -1,13 +1,21 @@
 [flake8]
+# 适当提高最大行长度
 max-line-length = 115
 
+# 设置最大复杂度
+max-complexity = 24
 ignore =
-    # these rules don't play well with black
+    # 忽略这些错误类型
     E203  # whitespace before :
     W503  # line break before binary operator
 
+# 忽略以下文件
 exclude =
-    build/**
+    .git,
+    .venv,
+    __pycache__,
+    logs,
+    build/**,
     doc/**
 
 per-file-ignores =
