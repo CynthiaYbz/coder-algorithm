@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def median(input_list: list) -> float:
     input_list.sort()
     num = len(input_list)
@@ -17,5 +16,6 @@ def median2(input_list: list) -> float:
 
 if __name__ == "__main__":
     # print(mean([]))
+    print(median([60]))
     print(median([60, 10, 20, 30, 40, 50, 70, 80, 90]))
     print(median2([60, 10, 20, 30, 40, 50, 70, 80, 90]))
