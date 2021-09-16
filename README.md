@@ -1,5 +1,5 @@
-# coder-python
-I am a coder, I learn python now , so I make my first repository name is coder-python.
+# 小码匠算法之旅
+记录小码匠在数据科学之旅过程中学习点滴
 
 ## 安装
 ### pip
@@ -7,4 +7,27 @@ I am a coder, I learn python now , so I make my first repository name is coder-p
 pip install -r requirements.txt
 ```
 
+## 算法
+### 数学相关
+- 杨辉三角
+
+### 排序算法相关
+- 快速排序
+- 冒泡排序
+- 选择排序
+
+### 近期计划完成算法
+
+| 分类 | 算法 | 说明 |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+
 ## 公众号
+
