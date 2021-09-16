@@ -51,7 +51,7 @@ pip install -r requirements.txt
 - [保障Python项目质量的工具](https://mp.weixin.qq.com/s/BmgyNGHI1FSaN99M5Q04wg)
 
 ## 小码匠的公众号
-关注微信公众号「小码匠和老码农」，查看系列文章
+关注微信公众号「小码匠和老码农」，除了编程，还是诗和远方。
 
 
 
