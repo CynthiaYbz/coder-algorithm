@@ -9,4 +9,5 @@ def bubble_sort(input_list: list[int]) -> list[int]:
 
 
 if __name__ == "__main__":
+    sorted()
     pass
