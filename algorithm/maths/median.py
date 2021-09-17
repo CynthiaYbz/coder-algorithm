@@ -1,6 +1,12 @@
 import numpy as np
 
 def median(input_list: list) -> float:
+    """
+    中位数
+    href: https://baike.baidu.com/item/%E4%B8%AD%E4%BD%8D%E5%80%BC/9501969?fr=aladdin
+    input_list: list[int] 数值型数据列表
+    returns: float: 中位值
+    """
     input_list.sort()
     num = len(input_list)
     if num % 2 == 1:
