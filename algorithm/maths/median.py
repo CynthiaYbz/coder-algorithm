@@ -7,6 +7,9 @@ def median(input_list: list) -> float:
     input_list: list[int] 数值型数据列表
     returns: float: 中位值
     """
+    if not input_list:
+        raise ValueError("你输入的是个空列表")
+
     input_list.sort()
     num = len(input_list)
     if num % 2 == 1:

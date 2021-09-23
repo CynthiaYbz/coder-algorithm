@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 def mode(input_list: list) -> list:
     """
     众数
@@ -5,10 +8,25 @@ def mode(input_list: list) -> list:
     input_list: list[int] 数值型数据列表
     returns: float: 中位值
     """
-    pass
+    if not input_list:
+        raise ValueError("你输入的是个空列表")
+
+    input_set_list = list(set(input_list))
+    count_dict = dict()
+    for value in input_set_list:
+        count_dict[value] = input_list.count(value)
+    num = max(list(count_dict.values()))
+
+    return [key for key, value in count_dict.items() if num == value]
+
+
+def mode_pandas(input_list: list) -> list:
+
+    return pd.Series(input_list).mode().to_list()
+
 
 if __name__ == "__main__":
-    print(mode([]))
+    # print(mode([]))
     print(mode([60]))
     print(mode([60, 60]))
     print(mode([10, 10, 20, 30, 40, 10, 70, 80, 90]))
