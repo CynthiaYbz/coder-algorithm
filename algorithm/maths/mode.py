@@ -5,11 +5,11 @@ def mode(input_list: list) -> list:
     """
     众数
     href: https://baike.baidu.com/item/%E4%BC%97%E6%95%B0/44796
-    input_list: list[int] 数值型数据列表
-    returns: float: 中位值
+    input_list: list 数值型数据列表
+    returns: 众数列表
     """
     if not input_list:
-        raise ValueError("你输入的是个空列表")
+        return []
 
     input_set_list = list(set(input_list))
     count_dict = dict()

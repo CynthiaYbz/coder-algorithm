@@ -20,7 +20,6 @@ def median(input_list: list) -> float:
 
 def median2(input_list: list) -> float:
     return np.median(input_list)
-    #return np.median(sorted(input_list))
 
 
 if __name__ == "__main__":

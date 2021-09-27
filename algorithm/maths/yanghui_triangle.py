@@ -1,6 +1,7 @@
 def triangle(n: int) -> list[int]:
     """
     杨辉三角
+    href:
     n: int 层数
     returns: list: 数据列表
     """
