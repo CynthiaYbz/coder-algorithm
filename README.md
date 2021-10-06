@@ -64,6 +64,10 @@ pip install -r requirements.txt
 ```
 
 
+## 文章分享
+- [小码匠算法之旅: 第一个算法](https://mp.weixin.qq.com/s/j8zkmpruUBstWj-Tndc5QA)
+- [印度小哥的代码被质疑，才是我希望小码匠做到的](https://mp.weixin.qq.com/s/BvFzHPPMjVudCnXboV0gIA)
+
 ## 资料整理
 ### 刷题网站
 #### Leetcode
