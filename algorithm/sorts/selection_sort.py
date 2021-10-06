@@ -22,3 +22,7 @@ if __name__ == "__main__":
     print(selection_sort([3, 2, 2]))
     print(selection_sort([0, 5, 2, 3, 2]))
     print(selection_sort([-23, 0, 6, -4, 34]))
+
+    a = "hello"
+    b = "hello"
+    print(a is b, a == b) 
