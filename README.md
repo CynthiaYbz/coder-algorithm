@@ -1,10 +1,14 @@
 # 小码匠算法之旅
 Hi，大家好，我是小码匠，是一名小学生。正在学习Python的基础知识和简单算法。
-这个仓库是我和老码农一起在维护。我的主业是学习，老码农是我的经纪人，负责规划我的
+这个仓库是我和老码农(我老爸)一起在维护。我的主业是学习，老码农是我的经纪人，负责规划我的
 - 读书（编程方面书籍）
 - 基础资料整理
 - 找基础算法题
 - 每天到家陪我刷题，一起学习
+
+在学习过程中，老码农把遇到的问题及我和他的讨论做了简单整理，分享到了公众号。
+
+![avatar](docs/imgs/qrcode.jpg)
 
 一对逗比的父女，未来的日子中期待和大家一起成长。
 
@@ -60,11 +64,12 @@ pip install -r requirements.txt
 ```
 
 
-## 参考资料
-- [保障Python项目质量的工具](https://mp.weixin.qq.com/s/BmgyNGHI1FSaN99M5Q04wg)
+## 资料整理
+### 刷题网站
 
-## 小码匠的公众号
-关注微信公众号「小码匠和老码农」，除了编程，还是诗和远方。
+### Github
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+> 这个项目已经收集了很多算法，在Github上标星已经将近10w了，fork数也近3万。老码农和我会针对我编写的算法对比分析学习。这个库挺不错的，推荐给大家。
+-[Algorithms in Python](https://github.com/prakhar1989/Algorithms)
 
-![avatar](docs/imgs/qrcode.jpg)
 
