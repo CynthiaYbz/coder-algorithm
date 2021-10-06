@@ -66,6 +66,28 @@ pip install -r requirements.txt
 
 ## 资料整理
 ### 刷题网站
+#### Leetcode
+- [Leetcode](https://leetcode.com/)
+- [Leetcode中文](https://leetcode-cn.com/)
+> 题目由易到难<br>可以参加算法比赛，获得各大厂内推的机会
+
+#### HackerRank
+- [地址](https://www.hackerrank.com/)
+- 简介
+  - 难度从低到高
+  - 各种算法和数据结构
+  - 直接编写代码，直接运行并查看结果
+
+#### TopCoder
+- [地址](https://www.topcoder.com/challenges/)
+- 简介
+  - 号称：百万程序员喜爱的编程比赛网站
+  - 算法竞赛、组建设计竞赛、组建开发竞赛
+
+
+### 精华文章
+#### 排序
+- [Python版十大经典排序算法（动图演示）](https://mp.weixin.qq.com/s/zLSq3MOiWpN4Lm3ujTTVTw)
 
 ### Github
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
