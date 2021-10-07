@@ -97,3 +97,7 @@ pip install -r requirements.txt
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 > 这个项目已经收集了很多算法，在Github上标星已经将近10w了，fork数也近3万。老码农和我会针对我编写的算法对比分析学习。这个库挺不错的，推荐给大家。
 - [Algorithms in Python](https://github.com/prakhar1989/Algorithms)
+- [apachecn/Interview](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
+  - [LeetCode 面试必备](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
+- [Daily Interview](https://github.com/datawhalechina/daily-interview)
+ 

@@ -1,4 +1,4 @@
-def median(input_list: list) -> list:
+def reverse(x: int) -> int:
     """
     整数反转
     给你一个 32 位的有符号整数 x ，返回将 x 中的数字部分反转后的结果。
